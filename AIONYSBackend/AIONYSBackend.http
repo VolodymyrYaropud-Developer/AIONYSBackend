@@ -1,0 +1,6 @@
+@AIONYSBackend_HostAddress = http://localhost:5174
+
+GET {{AIONYSBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
